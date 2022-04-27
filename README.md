@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://lijitong/about">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeenonLee&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeenonLee&count_private=true&show_icons=true&hide=issues&hide_title=true&include_all_commits=true" />
 </a>
 <!--
 <a href="https://lijitong/about">
