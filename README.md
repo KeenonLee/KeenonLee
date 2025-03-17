@@ -1,8 +1,8 @@
 ### Hi there, I'm Keenon Lee  |  李基同 👋
 
 🔹 **About Me:**  
-I'm a passionate software engineer focusing on **Cloud Native technologies** and **Kubernetes Operator Framework**. 
-Currently working on **certificate management, secrets management, and key management**.  
+I'm a passionate software engineer focusing on **Cloud Native Technologies**. 
+Currently working on **Operator Framework**, **Certificate Management, Secrets Management, and Key Management**.
 
 🔹 **Interests:**  
 When I'm not coding, you'll probably find me:  
